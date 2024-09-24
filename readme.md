@@ -4,8 +4,9 @@ Este é um simples **jogo da cobrinha** desenvolvido com **HTML**, **CSS**, e **
 
 ## 🎮 Demonstração
 
-![Jogo da Cobrinha](./demo/demo.gif)  
-_(Gif ilustrativo)_
+<div align="center"><img src="./demodemo.gif" alt="Demonstração do jogo" /></div>
+
+---
 
 ## 📋 Funcionalidades
 
